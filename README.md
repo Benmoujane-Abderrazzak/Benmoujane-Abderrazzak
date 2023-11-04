@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmoujane-abderrazzak&label=Profile%20views&color=0e75b6&style=flat" alt="benmoujane-abderrazzak" /> </p>
 
-- 🔭 I’m a Master's Student in Business Intelligence and Big Data Analytics at **Chouaib Doukkali University**
+- 🔭 Master's Student in Business Intelligence and Big Data Analytics at **Chouaib Doukkali University**
 
 - 👨‍💻 I’m Seeking Opportunities to Apply Advanced Data Science Skills
 
